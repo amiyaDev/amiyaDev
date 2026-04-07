@@ -1,6 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Next.js+%7C+React.js+%7C+Node.js+%7C+Express;Building+Scalable+Full+Stack+Applications" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Amiya Das</h1>
-<h3 align="center">🚀 Full Stack Developer | Node.js • React • MongoDB | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | Node.js • React • MongoDB | 🤖 AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amiyaDev&color=blue" alt="profile views"/>
+</p>
 
 ---
 
@@ -82,8 +89,8 @@ Git • GitHub • Docker (Basics)
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/amiya-das-705939211
-* 📧 Email: [dasamiya7059@gmail.com](mailto:dasamiya7059.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/amiya-das-dev
+* 📧 Email: [dasamiya7059@gmail.com](mailto:dasamiya7059@gmail.com)
 
 ---
 
