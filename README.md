@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Amiya Das</h1>
 <h3 align="center">🚀 Full Stack Developer | Node.js • React • MongoDB | 🤖 AI Enthusiast</h3>
